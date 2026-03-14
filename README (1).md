@@ -196,7 +196,7 @@ Planned improvements for Binox Game:
 -   🌐 Multi-chain support
 
 ------------------------------------------------------------------------
-
+#BNB #BNBChain
 # 📜 License
 
 MIT License
